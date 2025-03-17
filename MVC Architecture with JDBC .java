@@ -1,4 +1,4 @@
-[17/03/25, 10:35:32 PM] Nitika: 1.Model: Student.java
+ 1.Model: Student.java
 public class Student {
     private int studentID;
     private String name;
@@ -70,4 +70,3 @@ public class Main {
         }
     }
 }
-[17/03/25, 10:46:10 PM] Priyanka 616: Okay
